@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hello! I'm Trang. :sunglasses: </h1>
-<img align="center"  style="display: block; margin-left:auto; margin-right:auto" src="https://simpleicons.org/icons/github.svg" height="108" width="108" />
+<p align="center">
+<img   style="display: block; margin-left:auto; margin-right:auto" src="https://simpleicons.org/icons/github.svg" height="108" width="108" />
+</p>
 
 <!--
 **trangnth/trangnth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
