@@ -36,7 +36,7 @@ https://simpleicons.org/
     <a href="https://twitter.com/intent/follow?screen_name=BoSuaArsenal">
         <img src="https://img.shields.io/twitter/follow/BoSuaArsenal?style=social&logo=twitter"
             alt="follow on Twitter"></a>
-    <a href="https://www.linkedin.com/in/">
+    <a href="#">
         <img src="https://img.shields.io/badge/Skype @TrangUET--_.svg?style=social&logo=skype"      
             alt="LinkedIn"></a>
 </p>
@@ -49,7 +49,7 @@ System Engineer
 <br>
 <b>Add</b>: Tran Quoc Hoan street, Cau Giay District, Ha Noi
 <br>
-Email: trang.nguyenthihuyen@meditech.vn | Website: www.meditech.vn | https://iview.vn/
+<b>Email</b>: trang.nguyenthihuyen@meditech.vn | Website: www.meditech.vn | https://iview.vn/
 </p>
 
 
