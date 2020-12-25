@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm Trang. :sunglasses: </h1>
+<h1 align="center">👋 Xin chào! Đây là nơi làm màu của Trang. :sunglasses: </h1>
 <p align="center">
 <img   style="display: block; margin-left:auto; margin-right:auto" src="https://simpleicons.org/icons/github.svg" height="108" width="108" />
 </p>
