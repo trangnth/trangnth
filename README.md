@@ -65,7 +65,7 @@ A passionate System Engineer from Vietnam
 
 
 <h2 align="center">Research</h2>
-<p align="center">
+<div align="center">
 <a href="https://github.com/trangnth/Timhieu_Openstack">
         <img src="https://img.shields.io/badge/OpenStack--_.svg?style=social&logo=openstack"      
             alt="LinkedIn"></a>
@@ -81,10 +81,8 @@ A passionate System Engineer from Vietnam
 <a href="https://github.com/trangnth/Timhieu_Docker">
         <img src="https://img.shields.io/badge/Docker--_.svg?style=social&logo=docker"      
             alt="LinkedIn"></a>  
-</p>
+</div>
 
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
